@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" dir="ltr"><head><script>window["__codeletBootstrap__"]=JSON.parse('{"A":"A","B":"20260925-05-46ec85d","C":{"Abril Fatface":"YACgEZbkUVE,0","Alfa Slab One":"YACgEYS9sJU,0","Anton":"YACgEcYqQ-A,0","Archivo":"YACgEZulLoA,0","Arial Narrow":"YAGyDvJ_4Ts,0","Arial Rounded MT Bold":"YAFcfoaHu-s,0","Arial":"YAGyDvJ_4Ts,0","Avenir Next":"YAFcfmNq6UY,0","Baloo 2":"YADK30bC6HQ,0","Bebas Neue":"YACgESME5ew,0","Bricolage Grotesque":"YAFyMcdwzpc,0","Broken Glyph":"YADZ-exUkv0,0","Canva Sans":"YAFdJjTk5UU,1","Caveat":"YALBs2ploWQ,0","Comic Sans MS":"YAFcfvtOAUY,1","Cormorant Garamond":"YAFdJhX-538,0","Courier New":"YAGzXiGs0_8,0","Courier Prime":"YAD1aFjegN8,0","DM Sans":"YAD1aU3sLnI,0","DM Serif Display":"YAD1aYG82rc,0","Forum":"YACgEcnnqB4,0","Fraunces":"YAFdJpU7Kkk,0","Georgia":"YAGzXkO0pEM,0","Ghost Mono":"YAHQutsX00Q,0","Hanken Grotesk":"YAFcfhwp99E,0","Helvetica Neue":"YAFcf6CtJfI,0","Helvetica":"YAFcf6CtJfI,0","IBM Plex Mono":"YAFdJkmvhGI,0","Impact":"YAFcfnjI7Vk,0","Instrument Serif":"YAHFeOnZNEk,0","Inter":"YAFdJvSyp_k,3","Iowan Old Style":"YAGNIFa8j9o,0","Jacques Francois":"YADK3zbC6RM,0","JetBrains Mono":"YAFdJksXcAk,0","Josefin Sans":"YAFdJjvw9Ps,0","Lato":"YAFdJuFCnaw,0","Libre Baskerville":"YACgEUFdPdA,0","Lobster":"YAD8SnSjSFI,0","Lora":"YACgEXvxf8Q,0","Merriweather":"YACgEXvHxxs,0","Montserrat":"YAFdtQi73Xs,0","Nunito":"YAFdJoNRMmU,1","Oleo Script":"YACgEQQ14jI,0","Oswald":"YACgEQY10lw,0","Pacifico":"YADLjORQ1u4,0","Phantom Sans":"YAFdJvgJ5TU,0","Playfair Display":"YAFdJhem5V8,1","Plus Jakarta Sans":"YAGvf3_u0_Q,0","Poppins":"YAFdJjbTu24,1","Press Start 2P":"YAFyGr-8pmQ,0","Quicksand":"YAFdJpYtCxE,1","Raleway":"YAFdJhmxbVQ,1","Roboto Slab":"YAFdJswIKAg,0","Rockwell":"YAFcfyVZnN0,0","Rye":"YACgEdQP21k,0","Segoe UI":"YAHNdRD1Klw,0","Source Sans 3":"YAG4lO1Mj10,0","Source Serif 4":"YACgEfdj394,0","Space Grotesk":"YADZ-dYEmhg,0","Space Mono":"YADW1-vpsoc,0","Times New Roman":"YAGzXW3gftg,0","Times":"YAGzXW3gftg,0","Trebuchet MS":"YAFcfrglpVA,0","UV Display":"YAEdVfSSpYo,0","UV Sans":"YAFdJvgJ5TU,0","Ubuntu":"YACgERDU--Q,0","Verdana":"YAGzXTctYtQ,0","Work Sans":"YAGXhLOKv44,0","Yellowtail":"YACgEYG4kG4,0","ui-monospace":"YAD1aFjegN8,0","ui-sans-serif":"YACkoD1yZN0,0"}}');</script><script src="/_sdk/6542d56fbfe7a3eb.telemetry_sdk.js" integrity="sha512-ECdM0nK7EkwDuOqho2qxgyRQXyBHk9hZqRKMBr+Xsu6zjeHlt+qkO2N2YRiHN7Kg4e1fEHDhjIp4bGJYVypv1g=="></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Maison Noura — Curated in Saudi Arabia</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500;1,600&amp;display=swap" rel="stylesheet">
+  <style>
+    :root { --espresso:#241711; --ink:#35231c; --ivory:#f7f2e9; --paper:#fffdf9; --gold:#b58a45; --muted:#826f62; --line:#dfd2c0; --blush:#e8d8cc; }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+    body { margin:0; width:100%; font-family:"DM Sans",sans-serif; color:var(--ink); background:var(--ivory); }
+    .display { font-family:"Playfair Display",serif; }
+    .arabic { font-family:Tahoma, Arial, sans-serif; }
+    .page-shell { width:100%; overflow:hidden; }
+    .fine-line { border-color:rgba(181,138,69,.38); }
+    .nav-link { position:relative; transition:color .25s ease; }
+    .nav-link::after { content:""; position:absolute; left:0; bottom:-5px; width:0; height:1px; background:var(--gold); transition:width .25s ease; }
+    .nav-link:hover::after, .nav-link.active::after { width:100%; }
+    .icon-button { transition:transform .2s ease, color .2s ease, background .2s ease; }
+    .icon-button:hover { color:var(--gold); transform:translateY(-2px); }
+    .hero-image { filter:saturate(.75) contrast(1.04); }
+    .product-card { transition:transform .35s ease, box-shadow .35s ease; }
+    .product-card:hover { transform:translateY(-7px); box-shadow:0 18px 45px rgba(50,31,20,.13); }
+    .product-card .product-image { transition:transform .65s cubic-bezier(.2,.75,.2,1); }
+    .product-card:hover .product-image { transform:scale(1.055); }
+    .gold-button { transition:background .25s ease, transform .25s ease, box-shadow .25s ease; }
+    .gold-button:hover { background:#966e31 !important; transform:translateY(-2px); box-shadow:0 10px 24px rgba(88,55,19,.22); }
+    .outline-button { transition:background .25s ease,color .25s ease,transform .25s ease; }
+    .outline-button:hover { background:var(--espresso); color:#fff !important; transform:translateY(-2px); }
+    .reveal { animation:rise .75s both; }
+    @keyframes rise { from { opacity:0; transform:translateY(20px); } to { opacity:1; transform:translateY(0); } }
+    .drawer-backdrop { opacity:0; pointer-events:none; transition:opacity .3s ease; }
+    .drawer-backdrop.open { opacity:1; pointer-events:auto; }
+    .cart-drawer { transform:translateX(105%); transition:transform .35s cubic-bezier(.2,.8,.2,1); }
+    .cart-drawer.open { transform:translateX(0); }
+    [dir="rtl"] .cart-drawer { transform:translateX(-105%); }
+    [dir="rtl"] .cart-drawer.open { transform:translateX(0); }
+    [dir="rtl"] .nav-link::after { left:auto; right:0; }
+    .toast { opacity:0; transform:translateY(8px); pointer-events:none; transition:all .25s ease; }
+    .toast.show { opacity:1; transform:translateY(0); }
+    .category-chip { transition:all .2s ease; }
+    .category-chip:hover, .category-chip.selected { background:var(--espresso); color:white; border-color:var(--espresso); }
+    .input-clean:focus { outline:2px solid var(--gold); outline-offset:2px; }
+    .rtl-only { display:none; }
+    [dir="rtl"] .ltr-only { display:none; }
+    [dir="rtl"] .rtl-only { display:inline; }
+    @media (max-width: 767px) { .desktop-nav { display:none; } .mobile-hide { display:none; } }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/lucide@0.577.0/dist/umd/lucide.min.js" type="text/javascript"></script>
+  <script src="https://cdn.tailwindcss.com/3.4.17" type="text/javascript"></script>
+  <script src="/_sdk/6c2ecc939521f244.data_sdk.js" type="text/javascript" integrity="sha512-gRx8s+XsZDN6mSIQu2sivLZysbV0WHhb5kXNUWlgVb5lCMU1foJYukyMEDPv8Tnoocb8iwqB4XdRrWc7oEGzIQ=="></script>
+  <script src="/_sdk/ef0304cb8c7ed696.editing_sdk.js" type="text/javascript" integrity="sha512-kmL9L5Yuj57MQaequKbMA3aGpT/5lBUp10iGA3e3qnmMLs2ZZQ0poCcIfdd5rTgrhEvNPe4HK0ohePW7ZpgAFg=="></script>
+  <script src="/_sdk/ddcab3e45959c817.resizing_sdk.js" type="text/javascript" integrity="sha512-VAviUKfZVzugWBSeULYjSljTX+nb84wc6Zzbx5GQaQgh6X2ISSjXi8eIiCDGdwDh10esJMY0+QFQgUy9NcrTlQ=="></script>
+ </head>
+ <body data-template-id="__page-root" style="background: rgb(247, 242, 233);">
+  <div class="page-shell">
+   <div data-template-id="announcement-bar" class="canva-banner bg-[#241711] px-5 py-2.5 text-center text-xs tracking-[.16em] text-white" style="background: rgb(36, 23, 17); color: rgb(255, 255, 255);"><span data-template-id="announcement-text" class="canva-text" style="color: rgb(255, 255, 255); font-weight: 600; font-style: normal; font-size: 12px; letter-spacing: 0.12rem;">COMPLIMENTARY DELIVERY IN SAUDI ARABIA ON ORDERS OVER SAR 500</span>
+   </div>
+   <header data-template-id="site-header" class="canva-header sticky top-0 z-30 border-b fine-line bg-[#fffdf9]/95 backdrop-blur" style="background: rgb(255, 253, 249);">
+    <div class="mx-auto flex w-full max-w-7xl items-center justify-between px-5 py-4 md:px-8"><button type="button" class="icon-button md:hidden" aria-label="Open navigation menu"><i data-lucide="menu" class="h-5 w-5"></i></button>
+     <nav class="desktop-nav flex items-center gap-7 text-xs font-semibold uppercase tracking-[.14em]" aria-label="Primary navigation"><button type="button" class="nav-link active" data-filter="all"><span class="ltr-only">Shop all</span><span class="rtl-only arabic">تسوّقي الآن</span></button> <button type="button" class="nav-link" data-filter="Fashion"><span class="ltr-only">Fashion</span><span class="rtl-only arabic">الأزياء</span></button> <button type="button" class="nav-link" data-filter="Beauty"><span class="ltr-only">Beauty</span><span class="rtl-only arabic">الجمال</span></button>
+     </nav><a href="#top" class="text-center" aria-label="Maison Noura home"> <span data-template-id="brand-name" class="canva-text display block text-2xl font-semibold tracking-[.04em] md:text-3xl" style="color: rgb(36, 23, 17); font-weight: 600; font-style: normal; font-size: 16px;">Maison Noura</span> <span data-template-id="brand-subtitle" class="canva-text mt-0.5 block text-[8px] font-semibold uppercase tracking-[.34em] text-[#b58a45]" style="color: rgb(181, 138, 69); font-weight: 700; font-style: normal; font-size: 8px; letter-spacing: 0.2rem;">CURATED IN SAUDI ARABIA</span> </a>
+     <div class="flex items-center gap-2 md:gap-4"><button type="button" id="search-trigger" class="icon-button mobile-hide p-1.5" aria-label="Focus product search"><i data-lucide="search" class="h-[18px] w-[18px]"></i></button> <button type="button" class="icon-button mobile-hide p-1.5" aria-label="Account"><i data-lucide="user-round" class="h-[18px] w-[18px]"></i></button> <button type="button" id="language-toggle" class="icon-button border-s fine-line px-3 py-1 text-xs font-bold tracking-[.1em]" aria-label="Switch language">عربي</button> <button type="button" id="cart-open" class="icon-button relative p-1.5" aria-label="Open shopping bag"> <i data-lucide="shopping-bag" class="h-[19px] w-[19px]"></i> <span id="cart-count" class="absolute -right-1.5 -top-1.5 flex h-4 min-w-4 items-center justify-center rounded-full bg-[#b58a45] px-1 text-[9px] font-bold text-white">0</span> </button>
+     </div>
+    </div>
+   </header>
+   <main id="top">
+    <section data-template-id="hero-section" class="canva-section relative isolate min-h-[620px] overflow-hidden bg-[#e8d8cc]" style="background: rgb(232, 216, 204);"><img data-template-id="hero-image" loading="lazy" class="canva-image hero-image absolute inset-0 h-full w-full object-cover object-center" src="https://images.pexels.com/photos/30698026/pexels-photo-30698026.jpeg" alt="Elegant woman wearing sunglasses and a hijab in a modern fashion portrait.">
+     <div class="absolute inset-0 bg-gradient-to-r from-[#241711]/78 via-[#241711]/44 to-transparent"></div>
+     <div class="relative mx-auto flex min-h-[620px] w-full max-w-7xl items-end px-5 py-16 md:items-center md:px-8">
+      <div class="max-w-xl text-white">
+       <p data-template-id="hero-eyebrow" class="canva-text reveal mb-5 text-xs font-semibold uppercase tracking-[.28em] text-[#e6c98d]" style="animation-delay: 0.08s; color: rgb(230, 201, 141); font-weight: 700; font-style: normal; font-size: 12px; letter-spacing: 0.18rem;">THE AUTUMN EDIT</p>
+       <h1 data-template-id="hero-title" class="canva-text display reveal text-5xl leading-[.98] md:text-7xl" style="animation-delay: 0.16s; color: rgb(255, 255, 255); font-weight: 500; font-style: normal; font-size: 32px;">Objects of desire, chosen beautifully.</h1>
+       <p data-template-id="hero-copy" class="canva-text reveal mt-6 max-w-md text-base leading-7 text-[#f7f2e9]/90" style="animation-delay: 0.25s; color: rgb(247, 242, 233); font-weight: 400; font-style: normal; font-size: 17px; line-height: 1.6;">A considered collection of fashion and beauty for the Saudi woman with a point of view.</p><a href="#products" data-template-id="hero-cta" class="canva-button gold-button reveal mt-9 inline-flex bg-[#b58a45] px-7 py-3.5 text-xs font-bold uppercase tracking-[.17em] text-white" style="animation-delay: 0.35s; background: rgb(181, 138, 69); color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 12px; letter-spacing: 0.12rem;">Shop the collection</a>
+      </div>
+     </div>
+    </section>
+    <section data-template-id="value-section" class="canva-section border-b fine-line bg-[#fffdf9]" style="background: rgb(255, 253, 249);">
+     <div class="mx-auto grid w-full max-w-7xl grid-cols-1 divide-y divide-[#dfd2c0] md:grid-cols-3 md:divide-x md:divide-y-0">
+      <div class="px-8 py-7 text-center"><i data-lucide="map-pin" class="mx-auto mb-3 h-5 w-5 text-[#b58a45]"></i>
+       <p data-template-id="value-one" class="canva-text text-xs font-bold uppercase tracking-[.13em]" style="color: rgb(53, 35, 28); font-weight: 700; font-style: normal; font-size: 12px;">Delivery across Saudi Arabia</p>
+      </div>
+      <div class="px-8 py-7 text-center"><i data-lucide="sparkles" class="mx-auto mb-3 h-5 w-5 text-[#b58a45]"></i>
+       <p data-template-id="value-two" class="canva-text text-xs font-bold uppercase tracking-[.13em]" style="color: rgb(53, 35, 28); font-weight: 700; font-style: normal; font-size: 12px;">Curated with intention</p>
+      </div>
+      <div class="px-8 py-7 text-center"><i data-lucide="rotate-ccw" class="mx-auto mb-3 h-5 w-5 text-[#b58a45]"></i>
+       <p data-template-id="value-three" class="canva-text text-xs font-bold uppercase tracking-[.13em]" style="color: rgb(53, 35, 28); font-weight: 700; font-style: normal; font-size: 12px;">Easy 14-day returns</p>
+      </div>
+     </div>
+    </section>
+    <section id="products" class="mx-auto w-full max-w-7xl px-5 py-20 md:px-8 md:py-28">
+     <div class="flex flex-col justify-between gap-8 md:flex-row md:items-end">
+      <div>
+       <p data-template-id="products-eyebrow" class="canva-text text-xs font-bold uppercase tracking-[.22em] text-[#b58a45]" style="color: rgb(181, 138, 69); font-weight: 700; font-style: normal; font-size: 12px; letter-spacing: 0.18rem;">THE NOURA SELECTION</p>
+       <h2 data-template-id="products-title" class="canva-text display mt-3 text-4xl md:text-5xl" style="color: rgb(36, 23, 17); font-weight: 500; font-style: normal; font-size: 24px;">New &amp; noteworthy</h2>
+      </div>
+      <div class="relative w-full md:w-72"><label for="product-search" class="sr-only">Search products</label> <i data-lucide="search" class="pointer-events-none absolute left-3 top-3.5 h-4 w-4 text-[#826f62]"></i> <input data-template-id="search-input" id="product-search" class="canva-input input-clean w-full border-b border-[#826f62] bg-transparent py-3 pl-9 text-sm" type="search" placeholder="Search the collection" style="color: rgb(53, 35, 28); font-weight: 400; font-style: normal; font-size: 14px;">
+      </div>
+     </div>
+     <div class="mt-9 flex flex-wrap gap-2" aria-label="Product categories"><button type="button" class="category-chip selected rounded-full border border-[#dfd2c0] px-5 py-2 text-xs font-bold uppercase tracking-[.1em]" data-filter="all">All</button> <button type="button" class="category-chip rounded-full border border-[#dfd2c0] px-5 py-2 text-xs font-bold uppercase tracking-[.1em]" data-filter="Fashion">Fashion</button> <button type="button" class="category-chip rounded-full border border-[#dfd2c0] px-5 py-2 text-xs font-bold uppercase tracking-[.1em]" data-filter="Beauty">Beauty</button> <button type="button" class="category-chip rounded-full border border-[#dfd2c0] px-5 py-2 text-xs font-bold uppercase tracking-[.1em]" data-filter="New">New Arrivals</button> <button type="button" class="category-chip rounded-full border border-[#dfd2c0] px-5 py-2 text-xs font-bold uppercase tracking-[.1em]" data-filter="Best">Best Sellers</button>
+     </div>
+     <p id="no-results" class="hidden py-16 text-center text-sm text-[#826f62]">No pieces found. Try another search.</p>
+     <div id="product-grid" class="mt-10 grid grid-cols-1 gap-x-5 gap-y-11 sm:grid-cols-2 lg:grid-cols-4">
+      <article class="product-card" data-product-id="noor-dress" data-category="Fashion New" data-name="Noor Satin Column Dress" data-price="890">
+       <div class="relative overflow-hidden bg-[#e8d8cc]"><img data-template-id="product-one-image" loading="lazy" class="canva-image product-image aspect-[4/5] w-full object-cover" src="https://images.pexels.com/photos/39655833/pexels-photo-39655833.jpeg" alt="Woman in a lavender satin dress against a neutral backdrop."> <span data-template-id="product-one-badge" class="canva-tag absolute left-3 top-3 bg-[#fffdf9] px-3 py-1.5 text-[10px] font-bold uppercase tracking-[.12em]" style="background: rgb(255, 253, 249); color: rgb(53, 35, 28); font-weight: 700; font-style: normal; font-size: 10px;">New</span> <button type="button" class="quick-add absolute bottom-3 right-3 flex h-10 w-10 items-center justify-center rounded-full bg-[#241711] text-white shadow-lg transition hover:bg-[#b58a45]" aria-label="Add Noor Satin Column Dress to bag"><i data-lucide="plus" class="h-5 w-5"></i></button>
+       </div>
+       <div class="pt-4">
+        <p data-template-id="product-one-category" class="canva-text text-[10px] font-bold uppercase tracking-[.17em] text-[#826f62]" style="color: rgb(130, 111, 98); font-weight: 700; font-style: normal; font-size: 10px; letter-spacing: 0.12rem;">Fashion</p>
+        <h3 data-template-id="product-one-name" class="canva-text display mt-1 text-xl" style="color: rgb(36, 23, 17); font-weight: 500; font-style: normal; font-size: 19px;">Noor Satin Column Dress</h3>
+        <div class="mt-2 flex items-center justify-between"><span data-template-id="product-one-price" class="canva-text text-sm font-bold" style="color: rgb(53, 35, 28); font-weight: 700; font-style: normal; font-size: 14px;">SAR 890</span> <span data-template-id="product-one-rating" class="canva-text text-xs text-[#b58a45]" style="color: rgb(181, 138, 69); font-weight: 400; font-style: normal; font-size: 12px;">★★★★★ 4.9</span>
+        </div>
+       </div>
+      </article>
+      <article class="product-card" data-product-id="sahara-tote" data-category="Fashion Best" data-name="Sahara Soft Tote" data-price="640">
+       <div class="relative overflow-hidden bg-[#e8d8cc]"><img data-template-id="product-two-image" loading="lazy" class="canva-image product-image aspect-[4/5] w-full object-cover" src="https://images.pexels.com/photos/10919291/pexels-photo-10919291.jpeg" alt="High-quality brown leather handbag against a neutral background."> <span data-template-id="product-two-badge" class="canva-tag absolute left-3 top-3 bg-[#fffdf9] px-3 py-1.5 text-[10px] font-bold uppercase tracking-[.12em]" style="background: rgb(255, 253, 249); color: rgb(53, 35, 28); font-weight: 700; font-style: normal; font-size: 10px;">Best seller</span> <button type="button" class="quick-add absolute bottom-3 right-3 flex h-10 w-10 items-center justify-center rounded-full bg-[#241711] text-white shadow-lg transition hover:bg-[#b58a45]" aria-label="Add Sahara Soft Tote to bag"><i data-lucide="plus" class="h-5 w-5"></i></button>
+       </div>
+       <div class="pt-4">
+        <p data-template-id="product-two-category" class="canva-text text-[10px] font-bold uppercase tracking-[.17em] text-[#826f62]" style="color: rgb(130, 111, 98); font-weight: 700; font-style: normal; font-size: 10px; letter-spacing: 0.12rem;">Fashion</p>
+        <h3 data-template-id="product-two-name" class="canva-text display mt-1 text-xl" style="color: rgb(36, 23, 17); font-weight: 500; font-style: normal; font-size: 19px;">Sahara Soft Tote</h3>
+        <div class="mt-2 flex items-center justify-between"><span data-template-id="product-two-price" class="canva-text text-sm font-bold" style="color: rgb(53, 35, 28); font-weight: 700; font-style: normal; font-size: 14px;">SAR 640</span> <span data-template-id="product-two-rating" class="canva-text text-xs text-[#b58a45]" style="color: rgb(181, 138, 69); font-weight: 400; font-style: normal; font-size: 12px;">★★★★★ 4.8</span>
+        </div>
+       </div>
+      </article>
+      <article class="product-card" data-product-id="amber-perfume" data-category="Beauty Best" data-name="Amber Veil Eau de Parfum" data-price="420">
+       <div class="relative overflow-hidden bg-[#e8d8cc]"><img data-template-id="product-three-image" loading="lazy" class="canva-image product-image aspect-[4/5] w-full object-cover" src="https://images.pexels.com/photos/37468240/pexels-photo-37468240.jpeg" al
